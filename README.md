@@ -122,10 +122,11 @@ flutter run
 - In admin page, when we close the machine laundry. It doesn't shows not available in the admin home screen
 
 ## One Thing You Might Be Wondering
-_What if there is people using the washing machine without the app?_
-Based on our dorm rules, if there is people who using not on their schedule, we can take it out the clothes from the washing machine. 
-So, if there is someone who using washing machine but not using the app. We can take it out. 
-Actually, we can use IOT for knowing if the washing machine are in use or not. But, we implement this rules for temporary, but if this app useful maybe later on we can put IOT.
+_What if someone uses the washing machine without the app?_
+Based on our dorm rules, if someone uses it outside of their scheduled time, we are allowed to remove their clothes from the washing machine.
+So, if a person is using the washing machine without booking through the app, we can take their clothes out.
+Actually, we could use IoT to detect whether the washing machine is in use or not, but for now, we are applying this rule temporarily.
+If this app proves to be useful, we might implement IoT in the future.
 
 ## Credits
 - Using FlutterFire  https://firebase.flutter.dev/
